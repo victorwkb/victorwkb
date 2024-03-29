@@ -1,9 +1,9 @@
 <h3 align="center">Hi there, I'm Victor Goh 👋</h3>
-<h2 align="center">I'm Masters of Data Science student</h2>
+<h2 align="center">I'm completing my Masters of Data Science</h2>
 
 - 🌱 I'm constantly learning new tools in the Modern Data Stack
-- 🔭 I'm exploring LangChain and web development during my free time.
-- 🥅 2024 Goals: Participate in more AI/ML Hackathons
+- 🔭 I'm exploring LangChain and web development during my free time
+- 🥅 2024 Goals: Participate in more AI/ML Hackathons and expand network
 - ⚡ Fun fact: I have a background in Mechatronics Engineering
 
 ### 🤝 Connect with me
@@ -32,10 +32,11 @@
 <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/> </a>
 <a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"> </a>
 <a href="https://www.rstudio.com/products/shiny/" target="_blank"> </a>
 <a href="https://d3js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="d3" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/ target="_blank"> <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="langhchain" width="80" height="40"/> </a>
 </p>
 
 ### 🧰 Other Skills
@@ -49,9 +50,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
 <a href="https://neovim.io/" target="_blank"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png" width="40" height="40"> </a>
