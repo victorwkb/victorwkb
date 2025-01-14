@@ -60,3 +60,6 @@
 <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40" /> </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
