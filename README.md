@@ -62,4 +62,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       15 hrs 10 mins  ███████████████████████▓░   94.93 %
+Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+SSH Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
