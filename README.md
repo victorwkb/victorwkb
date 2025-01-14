@@ -1,9 +1,9 @@
 <h3 align="center">Hi there, I'm Victor Goh 👋</h3>
 <h2 align="center">I'm completing my Masters of Data Science</h2>
 
-- 🌱 I'm constantly learning new tools in the Modern Data Stack
-- 🔭 I'm exploring LangChain and web development during my free time
-- 🥅 2024 Goals: Participate in more AI/ML Hackathons and expand network
+- 🌱 I'm constantly gaining experience with modern data tools
+- 🔭 I'm exploring MLOps, DevOps and web development during my free time
+- 🥅 2025 Goals: Increase coding throughput in meaningful projects and expand my professional network
 - ⚡ Fun fact: I have a background in Mechatronics Engineering
 
 ### 🤝 Connect with me
@@ -11,8 +11,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorgohkb)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorwkb@gmail.com)
 
 ### 🧑‍💻 I am currently working on
-- Data engineering & machine learning projects
-- Personal portfolio website
+- Early lifetime prediction of lithium-ion batteries using deep learning models
+- Price prediction of National Electricity Market (NEM) using time series forecasting models
+- Data engineering projects involving data pipelines and ETL processes
 
 ### 💼 Data Stack
 
@@ -23,7 +24,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-au/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
