@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Victor Goh 👋</h3>
-<h2 align="center">I'm completing my Masters of Data Science</h2>
+<h2 align="center">Masters of Data Science | Masters of Mechatronics Engineering</h2>
 
 - 🌱 I'm constantly gaining experience with modern data tools
 - 🔭 I'm exploring MLOps, DevOps and web development during my free time
