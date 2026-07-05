@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 July 2022 - To: 27 June 2026
+From: 05 July 2022 - To: 04 July 2026
 
 Python            330 hrs 49 mins       ████████▓░░░░░░░░░░░░░░░░   34.63 %
 TypeScript        142 hrs 59 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
