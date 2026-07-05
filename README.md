@@ -1,9 +1,10 @@
 <h3 align="center">Hi there, I'm Victor Goh 👋</h3>
 <h2 align="center">Masters of Data Science | Masters of Mechatronics Engineering</h2>
 
-- 🌱 I'm constantly gaining experience with modern data tools
-- 🔭 I'm exploring MLOps, DevOps and web development during my free time
-- 🥅 2025 Goals: Increase coding throughput in meaningful projects and expand my professional network
+- 🧱 Databricks expert — Lakehouse, Delta, Unity Catalog, Workflows, DLT
+- 🧑‍🚀 Modern full-full stack: web apps → data platforms → Terraform cloud infra → AI/traditional ML
+- 🚀 Wrapping up my stint at ZEN Energy — now more keen to explore startup ideas & environments
+- 🧑‍💻 Always down to hack a hackathon — hit me up if you're forming a team
 - ⚡ Fun fact: I have a background in Mechatronics Engineering
 
 ### 🤝 Connect with me
@@ -11,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorgohkb)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorwkb@gmail.com)
 
 ### 🧑‍💻 I am currently working on
-- Early lifetime prediction of lithium-ion batteries using deep learning models
 - Price prediction of National Electricity Market (NEM) using time series forecasting models
 - Data engineering projects involving data pipelines and ETL processes
 
@@ -28,6 +28,8 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-au/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.databricks.com/" target="_blank"> <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="databricks" width="40" height="40"/> </a>
+<a href="https://supabase.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/> </a>
@@ -54,13 +56,18 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+<a href="https://claude.com/claude-code" target="_blank"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg" alt="claude-code" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a>
 <a href="https://neovim.io/" target="_blank"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png" width="40" height="40"> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40" /> </a>
 </p>
+
+> _Note: work hours not actively tracked since starting my job._
 
 <!--START_SECTION:waka-->
 
