@@ -72,13 +72,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 July 2022 - To: 04 July 2026
+From: 05 July 2022 - To: 11 July 2026
 
-Python            330 hrs 49 mins       ████████▓░░░░░░░░░░░░░░░░   34.63 %
-TypeScript        142 hrs 59 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Nix               93 hrs 34 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Lua               45 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JavaScript        42 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Python            330 hrs 49 mins       ████████▓░░░░░░░░░░░░░░░░   34.55 %
+TypeScript        143 hrs 46 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Nix               93 hrs 34 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Lua               45 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JavaScript        42 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
